@@ -1,6 +1,16 @@
 # Image Deblurring
 **Group Members:** Jinghao Ye, Lanfeng Liu, Zizhuang Guo, Yuhang Sun
 
+
+
+## Installation
+
+To install the whole project(including all submodule): 
+
+```bash
+git clone --recursive https://github.com/CS585-Project-Deblur/Deblur.git
+```
+
 ## Overview
 We tried three non-deep-learning methods and two deep learning methods successfully. The three non-dl methods are the Wiener Filter for Motion Deblurring, the Two-Phase Kernel Estimation for Motion Deblurring and the Wiener Filter for Out of Focus Deblurring. The two deep learning methods are the DeblurGAN-v2 model and the SRN Deblur model.
 ![img01](https://github.com/sunyuhang01/CS585-final-non-DL-deblur/blob/master/output/results/01.jpg?raw=true)
