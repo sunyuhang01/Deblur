@@ -5,7 +5,7 @@
 
 ## Installation
 
-To install the whole project(including all submodule): 
+To install the whole project(including all submodules): 
 
 ```bash
 git clone --recursive https://github.com/CS585-Project-Deblur/Deblur.git
@@ -99,7 +99,7 @@ Learning-based methods have also been proposed for deblurring. Among them, Nah e
 
 
 
-- **Better performance **
+- **Better performance**
 
   Combined with RNN structure, the hidden state captures useful information and benefits restoration across scales.
 
